@@ -9,5 +9,7 @@ product-and-cart is a non Vue-CLI version of the project which is supposed to be
 product-and-cart-cli-version is a Vue-CLI and Vue Router version of the project. To run it navigate to the project directory in windows powershell and run the following commands
 
 npm install vue 
-npm install -g @vue/cli 
+
+npm install -g @vue/cli
+
 npm install serve
