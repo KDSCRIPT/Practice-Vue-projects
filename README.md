@@ -1,4 +1,7 @@
 # practice-Vue-projects
+
+## Shopping cart
+
 This repository consists of  Vue JS projects I learnt through online tutorials.
 
 Shopping cart Project Credits and course which taught me Vue JS:
@@ -13,6 +16,8 @@ npm install vue
 npm install -g @vue/cli
 
 npm install serve
+
+## Qwitter 
 
 Qwitter Project Credits and course which taught me Quasar:
 [A basic Twitter Clone with Vue.js and Quasar](https://www.youtube.com/watch?v=la-0ulfn0_M)
