@@ -38,7 +38,7 @@ npx quasar dev
 
 To deploy the project in electron, run the following commands
 
-First in package make sure the packager has "win32" platform.
+First in package, in quasar conf file, make sure the packager has "win32" platform.
 
 npx quasar dev -m electron
 
